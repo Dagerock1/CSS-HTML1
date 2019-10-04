@@ -1,0 +1,123 @@
+header {
+  color: dimgray;
+  background-color: black;
+  text-align: left;
+  height: 50px;
+  margin-top: -40px;
+  padding : 45px;
+}
+body{
+  margin:0px;
+  padding:0px;
+  height: 100%;
+}
+section {
+  padding: 0 20px;
+
+  font-size: 18px;
+  line-height: 24px;
+  font-family: "Times New Roman", serif;
+  color: #222222;
+}
+a {
+  text-decoration: none;
+  display: inline-block;
+  padding: 5px 5px;
+  letter-spacing: 1px;
+  margin: 0 20px;
+  font-size: 22px;
+  font-family: 'Fredoka One', cursive;
+  transition: .3s ease-in-out
+}
+.global {
+  color: black;
+  letter-spacing: 1px;
+  border-bottom: 1px solid transparent; 
+  border-top: 1px solid transparent;
+}
+pre {
+   padding: 0 10px;
+
+  font-size: 18px;
+  line-height: 24px;
+  font-family: "Times New Roman", serif;
+  color: #222222;
+}
+h1 {
+  font-size: 40px;
+  line-height: normal;
+  height: 125px;
+  margin-bottom : -125px;
+}
+h2 {
+  font-size: 35px;
+  line-height: normal;
+}
+li {
+  font-family: "Times New Roman", serif;
+}
+h3 {
+  font-size: 40px;
+  line-height: normal;
+}
+.footer {
+  padding-bottom : 1px;
+  color: white;
+  background-color: black;
+  clear:both;
+  height: 125px;
+  margin-top:-125px;
+}
+
+.footer-last {
+   font-size: 18px;
+  line-height: 24px;
+  font-family: "Times New Roman", serif;
+  color: white;
+}
+
+.FloatRight {
+  background-color: black;
+  float: right;
+  border: 5px solid rgba(80,80,80, 1);
+  padding : 30px;
+  margin-left: 20px;
+  width: 8%;
+  height: 100px;
+  font-family: "Arial", serif;
+  color : white;
+  font-size: 40px;
+  line-height: 50px;
+  text-align: center;
+
+  min-height: 100%;
+}
+
+.TextCentre {
+  text-align: center;
+}
+
+.FloatLefth {
+  background-color: black;
+  float: left;
+  border: 5px solid rgba(80,80,80, 1);
+  padding : 30px;
+  margin-right: 20px;
+  width: 8%;
+  height: 100px;
+  font-family: "Arial", serif;
+  color : white;
+  font-size: 40px;
+  line-height: 50px;
+  text-align: center;
+
+  min-height: 100%;
+  margin-bottom: 100px;
+}
+.Justified {
+   text-align: justify;
+}
+
+.TextRight {
+  text-align: right;
+}
