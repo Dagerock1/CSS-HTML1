@@ -1,0 +1,39 @@
+header {
+  color: dimgray;
+  background-color: black;
+}
+section {
+  padding: 0 20px;
+
+  font-size: 18px;
+  line-height: 24px;
+  font-family: "Times New Roman", serif;
+  color: #222222;
+}
+
+h1 {
+  font-size: 40px;
+  line-height: normal;
+}
+h2 {
+  font-size: 35px;
+  line-height: normal;
+}
+li {
+  font-family: "Times New Roman", serif;
+}
+h3 {
+  font-size: 40px;
+  line-height: normal;
+}
+.footer {
+   color: white;
+  background-color: black;
+}
+
+.footer-last {
+   font-size: 18px;
+  line-height: 24px;
+  font-family: "Times New Roman", serif;
+  color: white;
+}

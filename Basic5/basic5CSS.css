@@ -1,0 +1,105 @@
+header {
+  color: dimgray;
+  background-color: black;
+  margin-top:-25px;
+  height: 45px;
+}
+section {
+  padding: 0 20px;
+
+  font-size: 18px;
+  line-height: 24px;
+  font-family: "Times New Roman", serif;
+  color: #222222;
+}
+h1 {
+  font-size: 40px;
+  line-height: normal;
+  height: 125px;
+  margin-bottom : -125px;
+}
+h2 {
+  font-size: 35px;
+  text-align: left;
+}
+ul {
+  font-family: "Times New Roman", serif;
+  text-align:left;
+}
+p{
+  text-align: left;
+}
+q {
+  float: right;
+}
+.Column1 {
+  display: inline-block;
+  width: 20%;
+  text-align: left;
+  vertical-align: top;
+  margin-right: -4px;
+  background: gray;
+  height: 1000px;
+}
+.Column2 {
+  display: inline-block;
+  width: 20%;
+  text-align: left;
+  vertical-align: top;
+  margin-right: -4px;
+  background: springgreen ;
+  margin-bottom: 96px;
+  height: 1000px;
+}
+.Column3 {
+  display: inline-block;
+  width: 20%;
+  text-align: left;
+  vertical-align: top;
+  margin-right: -4px;
+  background: dodgerblue ;
+  height: 1000px;
+}
+.Column4 {
+  display: inline-block;
+  width: 20%;
+  text-align: left;
+  vertical-align: top;
+  margin-right: -4px;
+  background: red ;
+  margin-bottom: 96px;
+  height: 1000px;
+}
+.Column5 {
+  display: inline-block;
+  width: 20%;
+  text-align: left;
+  vertical-align: top;
+  margin-right: -4px;
+  background: yellow ;
+  margin-bottom: 96px;
+  height: 1000px;
+}
+.footer {
+  padding-bottom : 1px;
+  color: white;
+  background-color: black;
+  clear:both;
+  height: 125px;
+  margin-top:-125px;
+
+}
+.footer-last {
+  font-size: 18px;
+  line-height: 24px;
+  font-family: "Times New Roman", serif;
+  color: white;
+  font-style: italic;
+}
+.Heading {
+  display: inline-block;
+  font-size: 35px;
+  text-align: left;
+  margin: 0px;
+  color: rgba(0,0,0,0.5)
+}

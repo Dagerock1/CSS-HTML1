@@ -1,0 +1,72 @@
+header {
+  color: dimgray;
+  background-color: black;
+  margin-top:-25px;
+  height: 45px;
+}
+section {
+  padding: 0 20px;
+
+  font-size: 18px;
+  line-height: 24px;
+  font-family: "Times New Roman", serif;
+  color: #222222;
+}
+h1 {
+  font-size: 40px;
+  line-height: normal;
+  height: 125px;
+  margin-bottom : -125px;
+}
+h2 {
+  font-size: 35px;
+  line-height: normal;
+  text-align: left;
+}
+li {
+  font-family: "Times New Roman", serif;
+  text-align:left;
+}
+q{
+  float : right;
+}
+.Column1 {
+  display: inline-block;
+  width: 444px;
+  text-align: center;
+  vertical-align: top;
+  margin-right: -4px;
+  background: gray;
+}
+.Column2 {
+  display: inline-block;
+  width: 444px;
+  text-align: center;
+  vertical-align: top;
+  margin-right: -4px;
+  background: springgreen ;
+  margin-bottom: 96px;
+}
+.Column3 {
+  display: inline-block;
+  width: 444px;
+  text-align: center;
+  vertical-align: top;
+  margin-right: -4px;
+  background: dodgerblue ;
+}
+.footer {
+  padding-bottom : 1px;
+  color: white;
+  background-color: black;
+  clear:both;
+  height: 125px;
+  margin-top:-125px;
+}
+.footer-last {
+  font-size: 18px;
+  line-height: 24px;
+  font-family: "Times New Roman", serif;
+  color: white;
+  font-style: italic;
+}
